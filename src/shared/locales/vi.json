@@ -1,0 +1,88 @@
+{
+  "menu": {
+    "dashboard": "Trang chủ",
+    "topics": "Đề tài",
+    "schedules": "Lịch trình",
+    "schedulesList": "Danh sách lịch trình",
+    "availability": "Quản lý thời gian rảnh",
+    "scoring": "Chấm điểm",
+    "reports": "Báo cáo",
+    "admin": "Quản trị"
+  },
+  "buttons": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "create": "Tạo mới",
+    "submit": "Gửi",
+    "approve": "Duyệt",
+    "reject": "Từ chối"
+  },
+  "search": {
+    "placeholder": "Tìm kiếm đề tài, người dùng, lịch trình...",
+    "title": "Tìm kiếm",
+    "noResults": "Không tìm thấy kết quả nào",
+    "enterQuery": "Nhập từ khóa để tìm kiếm",
+    "results": "kết quả"
+  },
+  "availability": {
+    "title": "Quản lý thời gian rảnh",
+    "description": "Quản lý thời gian rảnh của bạn và tìm thời gian chung với các thành viên khác",
+    "myAvailability": "Thời gian rảnh của tôi",
+    "addTimeSlot": "Thêm khung thời gian",
+    "selectDate": "Chọn ngày",
+    "startTime": "Thời gian bắt đầu",
+    "endTime": "Thời gian kết thúc",
+    "addSlot": "Thêm khung thời gian",
+    "quickAdd": "Thêm nhanh",
+    "morning": "Sáng",
+    "lateMorning": "Cuối buổi sáng",
+    "afternoon": "Chiều",
+    "lateAfternoon": "Cuối buổi chiều",
+    "yourAvailability": "Thời gian rảnh của bạn",
+    "noSlotsAdded": "Chưa có khung thời gian nào được thêm",
+    "saveAvailability": "Lưu thời gian rảnh",
+    "findCommonTime": "Tìm thời gian chung",
+    "selectUsers": "Chọn người dùng",
+    "commonAvailability": "Thời gian rảnh chung",
+    "duration": "Thời lượng",
+    "availableUsers": "Người dùng có thể tham gia",
+    "scheduleHere": "Đặt lịch tại đây",
+    "noCommonTime": "Không tìm thấy thời gian chung phù hợp",
+    "searching": "Đang tìm kiếm...",
+    "scheduledMeetings": "Cuộc họp đã đặt lịch",
+    "noScheduledMeetings": "Chưa có cuộc họp nào được đặt lịch",
+    "selectAllFields": "Vui lòng chọn đầy đủ thông tin",
+    "endTimeAfterStart": "Thời gian kết thúc phải sau thời gian bắt đầu",
+    "overlappingSlot": "Khung thời gian bị trùng lặp",
+    "slotAdded": "Đã thêm khung thời gian",
+    "slotRemoved": "Đã xóa khung thời gian"
+  },
+  "common": {
+    "clear": "Xóa",
+    "enable": "Kích hoạt",
+    "disable": "Vô hiệu hóa",
+    "remove": "Xóa"
+  },
+  "status": {
+    "pending": "Chờ duyệt",
+    "approved": "Đã duyệt",
+    "rejected": "Từ chối",
+    "in_progress": "Đang thực hiện",
+    "completed": "Hoàn thành",
+    "draft": "Nháp"
+  },
+  "roles": {
+    "STUDENT": "Sinh viên",
+    "SUPERVISOR": "Giảng viên hướng dẫn",
+    "REVIEWER": "Giảng viên phản biện",
+    "COUNCIL_CHAIR": "Chủ tịch hội đồng",
+    "COUNCIL_SECRETARY": "Thư ký hội đồng",
+    "COUNCIL_MEMBER": "Thành viên hội đồng",
+    "HOD": "Trưởng khoa",
+    "ADMIN": "Quản trị viên"
+  }
+}

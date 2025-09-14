@@ -1,0 +1,70 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "topics": "Topics Management",
+    "schedules": "Schedules",
+    "scoring": "Scoring",
+    "reports": "Reports",
+    "admin": "Administration"
+  },
+  "buttons": {
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "submit": "Submit",
+    "approve": "Approve",
+    "reject": "Reject",
+    "upload": "Upload",
+    "download": "Download"
+  },
+  "status": {
+    "PENDING": "Pending",
+    "APPROVED": "Approved",
+    "IN_PROGRESS": "In Progress",
+    "COMPLETED": "Completed",
+    "DEFENDED": "Defended",
+    "PASS": "Pass",
+    "FAIL": "Fail",
+    "OVERDUE": "Overdue"
+  },
+  "roles": {
+    "STUDENT": "Student",
+    "SUPERVISOR": "Supervisor",
+    "REVIEWER": "Reviewer",
+    "COUNCIL_CHAIR": "Council Chair",
+    "COUNCIL_SECRETARY": "Council Secretary",
+    "COUNCIL_MEMBER": "Council Member",
+    "HOD": "Head of Department",
+    "ADMIN": "Administrator"
+  },
+  "forms": {
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "title": "Title",
+    "description": "Description",
+    "department": "Department",
+    "faculty": "Faculty",
+    "academicYear": "Academic Year",
+    "student": "Student",
+    "supervisor": "Supervisor",
+    "deadline": "Deadline",
+    "feedback": "Feedback",
+    "comments": "Comments",
+    "score": "Score"
+  },
+  "messages": {
+    "loginSuccess": "Login successful",
+    "loginFailed": "Login failed",
+    "saveSuccess": "Saved successfully",
+    "deleteSuccess": "Deleted successfully",
+    "uploadSuccess": "Uploaded successfully",
+    "error": "An error occurred",
+    "noData": "No data available",
+    "loading": "Loading..."
+  }
+}

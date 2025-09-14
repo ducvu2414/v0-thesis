@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  thesis-app:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    
+  # Optional: Add a reverse proxy for HTTPS
+  nginx-proxy:
+    image: nginx:alpine
+    ports:
+      - "443:443"
+    volumes:
+      - ./ssl:/etc/nginx/ssl
+      - ./proxy.conf:/etc/nginx/nginx.conf
+    depends_on:
+      - thesis-app
+    restart: unless-stopped

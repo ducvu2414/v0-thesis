@@ -1,0 +1,88 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "topics": "Topics",
+    "schedules": "Schedules",
+    "schedulesList": "Schedules List",
+    "availability": "Availability Management",
+    "scoring": "Scoring",
+    "reports": "Reports",
+    "admin": "Administration"
+  },
+  "buttons": {
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "submit": "Submit",
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "search": {
+    "placeholder": "Search topics, users, schedules...",
+    "title": "Search",
+    "noResults": "No results found",
+    "enterQuery": "Enter keywords to search",
+    "results": "results"
+  },
+  "availability": {
+    "title": "Availability Management",
+    "description": "Manage your availability and find common time slots with other members",
+    "myAvailability": "My Availability",
+    "addTimeSlot": "Add Time Slot",
+    "selectDate": "Select Date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "addSlot": "Add Slot",
+    "quickAdd": "Quick Add",
+    "morning": "Morning",
+    "lateMorning": "Late Morning",
+    "afternoon": "Afternoon",
+    "lateAfternoon": "Late Afternoon",
+    "yourAvailability": "Your Availability",
+    "noSlotsAdded": "No time slots added yet",
+    "saveAvailability": "Save Availability",
+    "findCommonTime": "Find Common Time",
+    "selectUsers": "Select Users",
+    "commonAvailability": "Common Availability",
+    "duration": "Duration",
+    "availableUsers": "Available Users",
+    "scheduleHere": "Schedule Here",
+    "noCommonTime": "No common time slots found",
+    "searching": "Searching...",
+    "scheduledMeetings": "Scheduled Meetings",
+    "noScheduledMeetings": "No scheduled meetings yet",
+    "selectAllFields": "Please select all fields",
+    "endTimeAfterStart": "End time must be after start time",
+    "overlappingSlot": "Time slot overlaps with existing slot",
+    "slotAdded": "Time slot added",
+    "slotRemoved": "Time slot removed"
+  },
+  "common": {
+    "clear": "Clear",
+    "enable": "Enable",
+    "disable": "Disable",
+    "remove": "Remove"
+  },
+  "status": {
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "draft": "Draft"
+  },
+  "roles": {
+    "STUDENT": "Student",
+    "SUPERVISOR": "Supervisor",
+    "REVIEWER": "Reviewer",
+    "COUNCIL_CHAIR": "Council Chair",
+    "COUNCIL_SECRETARY": "Council Secretary",
+    "COUNCIL_MEMBER": "Council Member",
+    "HOD": "Head of Department",
+    "ADMIN": "Administrator"
+  }
+}

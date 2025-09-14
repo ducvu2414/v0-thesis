@@ -1,0 +1,70 @@
+{
+  "menu": {
+    "dashboard": "Trang chủ",
+    "topics": "Quản lý đề tài",
+    "schedules": "Lịch trình",
+    "scoring": "Chấm điểm",
+    "reports": "Báo cáo",
+    "admin": "Quản trị"
+  },
+  "buttons": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "create": "Tạo mới",
+    "submit": "Gửi",
+    "approve": "Duyệt",
+    "reject": "Từ chối",
+    "upload": "Tải lên",
+    "download": "Tải xuống"
+  },
+  "status": {
+    "PENDING": "Chờ duyệt",
+    "APPROVED": "Đã duyệt",
+    "IN_PROGRESS": "Đang thực hiện",
+    "COMPLETED": "Hoàn thành",
+    "DEFENDED": "Đã bảo vệ",
+    "PASS": "Đạt",
+    "FAIL": "Không đạt",
+    "OVERDUE": "Quá hạn"
+  },
+  "roles": {
+    "STUDENT": "Sinh viên",
+    "SUPERVISOR": "Giảng viên hướng dẫn",
+    "REVIEWER": "Giảng viên phản biện",
+    "COUNCIL_CHAIR": "Chủ tịch hội đồng",
+    "COUNCIL_SECRETARY": "Thư ký hội đồng",
+    "COUNCIL_MEMBER": "Thành viên hội đồng",
+    "HOD": "Trưởng bộ môn",
+    "ADMIN": "Quản trị viên"
+  },
+  "forms": {
+    "email": "Email",
+    "password": "Mật khẩu",
+    "remember": "Ghi nhớ đăng nhập",
+    "title": "Tiêu đề",
+    "description": "Mô tả",
+    "department": "Bộ môn",
+    "faculty": "Khoa",
+    "academicYear": "Năm học",
+    "student": "Sinh viên",
+    "supervisor": "Giảng viên hướng dẫn",
+    "deadline": "Hạn chót",
+    "feedback": "Phản hồi",
+    "comments": "Nhận xét",
+    "score": "Điểm số"
+  },
+  "messages": {
+    "loginSuccess": "Đăng nhập thành công",
+    "loginFailed": "Đăng nhập thất bại",
+    "saveSuccess": "Lưu thành công",
+    "deleteSuccess": "Xóa thành công",
+    "uploadSuccess": "Tải lên thành công",
+    "error": "Có lỗi xảy ra",
+    "noData": "Không có dữ liệu",
+    "loading": "Đang tải..."
+  }
+}
